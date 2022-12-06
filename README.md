@@ -4,4 +4,4 @@ Created with CodeSandbox
 Abraham
 
 using props 
-https://codesandbox.io/s/github/Abraham-Bobosha/React-prop.
+https://codesandbox.io/s/github/Abraham-Bobosha/React-prop.?file=/src/index.js
