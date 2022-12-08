@@ -4,4 +4,6 @@ Created with CodeSandbox
 Abraham
 
 using props 
-https://codesandbox.io/s/github/Abraham-Bobosha/React-prop.?file=/src/index.js
+
+https://1pqbkg.csb.app/
+
